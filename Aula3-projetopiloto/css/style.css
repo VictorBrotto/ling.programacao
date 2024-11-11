@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.navbar, #head {
+    background-color: #0e8aff;
+}
+
+#logo img {
+    height: 60px;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.about-section, .contact-section, .destaque, .novidades {
+    padding: 40px 0;
+    text-align: center;
+}
